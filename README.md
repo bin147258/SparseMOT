@@ -1,2 +1,2 @@
 # SparseMOT
-## Title：A sparse appearance feature association algorithm for multi-target tracking based on improved sparse representation
+## Title：An enhanced sparse appearance feature association algorithm for multi-object tracking in unmanned aerial	vehicle videos
